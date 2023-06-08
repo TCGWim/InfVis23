@@ -7,6 +7,6 @@ Topic data story: ...
 
 Team members:
 * Eline Lunsingh Scheurleer
-* Renée Hagemans
+* Renée Hagemans - 14386690
 * Simon Bevaart
 * Wim Berkelmans
