@@ -1,4 +1,4 @@
-# Jupyter Book Tutorial
+# Jupyter Book Group 32
 
 (Last updated: June 5, 2023)
 
